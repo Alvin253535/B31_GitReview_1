@@ -1,4 +1,3 @@
-
 Feature: Login functionality
   User story: User is able to login
 
